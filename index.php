@@ -15,8 +15,8 @@
             <li><a href="index.php">Accueil</a></li>
             <li><a href="fenetres.php">Fenêtres</a>
                 <ul class="sub-menu">
-                    <li><a href="fenetre_pvc.php">Fenêtres PVC</a></li>
                     <li><a href="fenetre_bois.php">Fenêtres Bois</a></li>
+                    <li><a href="fenetre_pvc.php">Fenêtres PVC</a></li>
                     <li><a href="fenetre_aluminium.php">Fenêtres Aluminium</a></li>
                 </ul>
             </li>
@@ -41,7 +41,7 @@
     <br/>
     <br/>
 
-    <h1> Bienvenue sur le site de l'entreprise HMF </br>(Habitations Moderne de France) </h1>
+    <h1> Bienvenue sur le site Fenêtre et porte de l'entreprise HMF </br>(Habitations Moderne de France) </h1>
 
     <br/>
     <br/>
@@ -75,7 +75,7 @@
 
     <hr/>
 <div  class="text">
-<hr/>
+
 </br>
 
     <p> Votre conseiller HMF vous accompagne tout au long de vos travaux de rénovation (fenêtres, portes, et volets en bois, PVC ou aluminium). </br></br>
@@ -87,13 +87,13 @@ Nos équipes sont fières de respecter les 7 points de la charte d’excellence 
 Avec nous, gagnez en confort, en sécurité, en isolation et en design. </p>
 
 </br>
-<hr/>
+
 </div>
 <hr/>
 
 <div class="image-container2">
 
-<h3> Fenêtre </h3>
+<h2> Fenêtres </h2>
 
 <img src="./image/Fenetre-bois-décor-300x283.png" title="image fenetre bois" alt="image fenetre bois" id="image6"/>
 
@@ -117,14 +117,13 @@ Avec nous, gagnez en confort, en sécurité, en isolation et en design. </p>
 </div>
 
 </br>
-</br>
 
 <hr>
 
 
 <div class="image-container2">
 
-<h3> Portes </h3>
+<h2> Portes </h2>
 
 <img src="./image/portes.png" title="image porte" alt="image porte" id="image6"/>
 
@@ -158,7 +157,7 @@ Avec nous, gagnez en confort, en sécurité, en isolation et en design. </p>
 
 <div class="image-container2">
 
-<h3> Volets </h3>
+<h2> Volets </h2>
 
 <img src="./image/volets.png" title="image baies vitrées" alt="image baies vitrées" id="image6"/>
 
@@ -189,7 +188,7 @@ Avec nous, gagnez en confort, en sécurité, en isolation et en design. </p>
 
 <div class="image-container2">
 
-<h3> Baies vitrées</h3>
+<h2> Baies vitrées</h2>
 
 <img src="./image/baies_vitrees.png" title="image volets" alt="image volets" id="image6"/>
 
@@ -207,21 +206,25 @@ Avec nous, gagnez en confort, en sécurité, en isolation et en design. </p>
     </ul>
 </div>
 
+
 <div class="bouton-fenetre">
+    
 
 <a href="fenetres.php" class="bouton">Choix des baies vitrées</a>
 
 </div>
 
-
+</br>
+<hr>
 </br>
 
-
+<
 
 </br>
 
 <p id="index"><a href="#">Cliquez-ici pour remonter</a></p>
 
+</br>
 </br>
 
 

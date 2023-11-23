@@ -63,6 +63,7 @@ nav li:hover .sub-menu {
 
 }
 
+
 /*sous navigation */
 
 .sub-menu {
@@ -84,9 +85,11 @@ nav li:hover .sub-menu {
     border-bottom: 1px solid #000000; /* Bordure entre les éléments de la sous-liste */
 }
 
+
 /*coprs de page */
 
-h1{
+
+#fenetres{
     text-align: center;
 }
 
@@ -97,9 +100,7 @@ h1{
     align-items: center;
     background-color: rgb(152, 147, 147);
     border: 2px solid #000000
-   
 }
-
 
 .image-container {
     display: flex;
@@ -108,9 +109,8 @@ h1{
     animation-iteration-count: infinite;
 }
 
-
 #image-coulissant{
-    width: 800px;
+    width: 1000px;
     overflow: hidden;
 }
 
@@ -118,27 +118,18 @@ h1{
     0%{
         transform: translateX(0);
     }
+
     50% {
-        transform: translateX(-550px);
+        transform: translateX(-780px);
     }
-    100% {
+    100%{
         transform: translateX(0);
     }
 }
 
-#image4, #image2, #image3, #image6 {
-    display: inline-block;
-}
 
-.text-center ul li{
+#pose{
     text-align: center;
-}
-.text-center{
-    text-align: center;
-}
-
-.text-center ul {
-    list-style-type: none;
 }
 
 .text{
@@ -147,21 +138,22 @@ h1{
     border: 2px solid #000000;
 }
 
+.image6 {
+    display: inline-block;
+    max-width: 100%; /* La largeur maximale est fixée à 100% de la largeur disponible */
+    height: auto; /* Ajuste la hauteur en fonction de la largeur pour maintenir les proportions */
+}
+
+.image6_1, .image6_2, .image6_3{
+    width: 300px;
+    height: 250px;
+}
+
+
 .image-container2{
     text-align: center;
 }
 
-#taille-liste{
-    font-size: 17px;
-    font-weight: bold;
-}
-
-/* 
-.listepuce ul {
-    text-align: center;
-    display: flex;  Utiliser Flexbox pour centrer le texte 
-    justify-content: center; Centrer le texte horizontalement
-} */
 
 .listepuce ul {
     padding: 0; /* Supprimer le padding par défaut de la liste */
@@ -173,20 +165,9 @@ h1{
 }
 
 .listepuce ul li {
-    text-align: left; /* Aligner le texte à gauche à l'intérieur de chaque élément de la liste */
+    text-align: center; /* Aligner le texte à gauche à l'intérieur de chaque élément de la liste */
 }
 
-#listecentre1{
-    text-align: center;
-}
-
-#listecentre2{
-    text-align: center;
-}
-
-#listecentre3{
-    text-align: center;
-}
 
 .bouton-fenetre{
     text-align: center;
@@ -210,6 +191,8 @@ h1{
 }
 
 
+
+
 /* lien cliquable pour remonter au début de la page  */
 
 #index{
@@ -227,6 +210,7 @@ h1{
     background-color: #000000; /* Change la couleur de fond lors du survol */
     color: #ffffff; /* Change la couleur du texte lors du survol */
 }
+
 
 
 /* footer (bas de page) */
