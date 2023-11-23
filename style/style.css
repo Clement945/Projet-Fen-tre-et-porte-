@@ -1,7 +1,11 @@
+html{
+    scroll-behavior: smooth;  /*met en animation en mode lisse */
+}
+
 body {
     background-color: #ecf0f1;
     font-family: Arial, sans-serif;
-    margin: 0;  
+    margin: 0;
 }
 
 * {
@@ -70,6 +74,7 @@ nav li:hover .sub-menu {
     background-color: #ffffff; /* Couleur de fond du sous-menu */
     border: 1px solid #000000; /* Bordure du sous-menu */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Ombre du sous-menu */
+    z-index: 1;
 }
 
 .sub-menu a {
@@ -84,17 +89,54 @@ nav li:hover .sub-menu {
 h1{
     text-align: center;
 }
-
+/* 
 #image2{
     width: 12.3%;
 }
 
 #image3{
     width: 15.5%;
+} */
+
+#image-coulissant2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(152, 147, 147);
+    border: 2px solid #000000
+   
 }
 
+
 .image-container {
-    text-align: center;
+    display: flex;
+    animation-duration: 20s;
+    animation-name: mesImages;
+    animation-iteration-count: infinite;
+}
+
+
+#image-coulissant{
+    width: 800px;
+    overflow: auto;
+}
+
+@keyframes mesImages {
+    0%{
+        transform: translateX(0);
+    }
+    25% {
+        transform: translateX(-550px);
+    }
+    50% {
+        transform: translateX(0);
+    }
+    75% {
+        transform: translateX(0);
+    }
+    100% {
+        transform: translateX(0);
+    }
 }
 
 #image4, #image2, #image3, #image6 {
@@ -177,6 +219,22 @@ h1{
 
 .bouton:hover {
     background-color: #2980b9;
+}
+
+#index{
+    text-align: center;
+}
+
+#index a {
+    color: #000000;
+    border: 1px solid #000000; /* Ajoute une bordure de 1 pixel de large autour du lien */
+    padding: 5px 10px; /* Ajoute du padding pour un aspect visuel agréable */
+    text-decoration: none; /* Supprime la soulignement par défaut du lien */
+}
+
+#index a:hover {
+    background-color: #000000; /* Change la couleur de fond lors du survol */
+    color: #ffffff; /* Change la couleur du texte lors du survol */
 }
 
 

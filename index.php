@@ -45,11 +45,17 @@
 
     <br/>
     <br/>
-
-    <div class="image-container">
-    <img src="./image/volets-300x198.png" title="image volets" alt="image volets" id="image4"/>
-    <img src="./image/porte-PVC-entréé-décor-234x300.png" title="Image porte PVC" alt="image HMF" id="image2"/>
-    <img src="./image/fenetre-aluminium-décor.png" title="image fenetre aluminium" alt="image fenetre aluminium" id="image3"/>
+    
+<div id="image-coulissant2">
+    <div id="image-coulissant">
+        <div class="image-container">
+        <img src="./image/volets-300x198.png" title="image volets" alt="image volets" id="image4"/>
+        <img src="./image/porte-PVC-entréé-décor-234x300.png" title="Image porte PVC" alt="image HMF" id="image2"/>
+        <img src="./image/fenetre-aluminium-décor.png" title="image fenetre aluminium" alt="image fenetre aluminium" id="image3"/>
+        <img src="./image/baies_vitrees2.png" title="image baies vitrées" alt="image baies vitrées" id="image7"/>
+        <img src="./image/porte_en_bois.png" title="image porte en bois" alt="image porte en bois" id="image8"/>
+        </div>
+    </div>
 </div>
 
     <br/>
@@ -210,14 +216,18 @@ Avec nous, gagnez en confort, en sécurité, en isolation et en design. </p>
 
 </br>
 
+
+
 </br>
+
+<p id="index"><a href="#">Cliquez-ici pour remonter</a></p>
 
 </br>
 
 
 <footer>
         <p id="footer">
-            &copy; <a href="mentions_legalesv2.pdf" target="_blank">Mentions légales</a> - <a href="politique_de_confidentialite.pdf" target="_blank">Politique de confidentialité</a> - <a href="gestion_des_cookies.pdf" target="_blank">Gestion des cookies</a> - <a href="droitimage.pdf" target="_blank">Droit à l'image</a>
+            &copy; <a href="mentions_legales.pdf" target="_blank">Mentions légales</a> - <a href="politique_de_confidentialite.pdf" target="_blank">Politique de confidentialité</a> - <a href="gestion_des_cookies.pdf" target="_blank">Gestion des cookies</a> - <a href="droitimage.pdf" target="_blank">Droit à l'image</a>
         </p>
     </footer>
 
