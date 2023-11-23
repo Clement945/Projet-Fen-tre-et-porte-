@@ -218,7 +218,6 @@ Avec nous, gagnez en confort, en sécurité, en isolation et en design. </p>
 <hr>
 </br>
 
-<
 
 </br>
 
