@@ -89,9 +89,111 @@ nav li:hover .sub-menu {
 /*coprs de page */
 
 
+#fenetres{
+    text-align: center;
+}
+
+    /*image coulissant*/
+
+    #image-coulissant2{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: rgb(152, 147, 147);
+        border: 2px solid #000000
+    }
+    
+    .image-container {
+        display: flex;
+        animation-duration: 12s;
+        animation-name: mesImages;
+        animation-iteration-count: infinite;
+    }
+    
+    #image-coulissant{
+        width: 1000px;
+        overflow: hidden;
+    }
+    
+    @keyframes mesImages {
+        0%{
+            transform: translateX(0);
+        }
+    
+        50% {
+            transform: translateX(-480px);
+        }
+        100%{
+            transform: translateX(0);
+        }
+    }
+    
+    
+    #pose{
+        text-align: center;
+    }
+    
+    .text{
+        text-align: center;
+        background-color: rgb(152, 147, 147);
+        border: 2px solid #000000;
+    }
+    
+    .image6 {
+        display: inline-block;
+        max-width: 100%; /* La largeur maximale est fixée à 100% de la largeur disponible */
+        height: auto; /* Ajuste la hauteur en fonction de la largeur pour maintenir les proportions */
+    }
+    
+    .image6_1, .image6_2, .image6_3{
+        width: 300px;
+        height: 250px;
+    }
+    
+    
+    .image-container2{
+        text-align: center;
+    }
 
 
 
+
+    .listepuce ul {
+        padding: 0; /* Supprimer le padding par défaut de la liste */
+        list-style-position: inside; /* Positionner les puces à l'intérieur du conteneur li */
+        display: flex; /* Utiliser Flexbox pour centrer les éléments */
+        flex-direction: column; /* Afficher les éléments verticalement */
+        justify-content: center; /* Centrer les éléments verticalement */
+        align-items: center; /* Centrer les éléments horizontalement */
+    }
+    
+    .listepuce ul li {
+        text-align: center; /* Aligner le texte à gauche à l'intérieur de chaque élément de la liste */
+    }
+    
+    
+    .bouton-fenetre{
+        text-align: center;
+    }
+    
+    .bouton {
+        display: inline-block;
+        padding: 10px 20px;
+        font-size: 16px;
+        text-align: center;
+        text-decoration: none;
+        background-color: #3498db;
+        color: #ffffff;
+        border-radius: 5px;
+        transition: background-color 0.3s ease;
+        text-align: center;
+    }
+    
+    .bouton:hover {
+        background-color: #2980b9;
+    }
+    
+    
 
 
 
