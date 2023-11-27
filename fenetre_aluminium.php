@@ -90,19 +90,99 @@ tout en finesse, vous allez gagner de la lumière naturelle en plus, bénéficie
 
 
 
+<div class="image-container2">
+<h2>Design en aluminium</h2>
 
 
-<br/>
+<img src="./image/fenetre_aluminium1_6.png" title="image fenetre pvc" alt="image fenetre pvc" class="image6 image6_1"/>
+<img src="./image/fenetre_aluminium1_7.png" title="image fenetre pvc" alt="image fenetre pvc" class="image6 image6_1"/>
 
 
-
-
-<br/>
-
-<hr/>
 
 </br>
 
+</div>
+
+</br>
+
+<div class="listepuce">
+    <ul>
+        <li>Votre magasin Arcades et Baies siué à Fontenay-sous-bois (94120) vous propose une fenêtre aluminium Arcad’lux avec un confort et un bon niveau d’isolation.</li></br>
+        <li>Dotée d’un double vitrage 4-20-4ITR+gaz, cette fenêtre aluminium est éligible au crédit d’impôt car sont coefficient d’isolation thermique est assez faible.</li></br>
+        <li>Nos equipes remplacent vos anciennes fenetres en depose totale (depose du dormant) ou en renovation (dormant d’origine conservé).</li></br>
+        
+    </ul>
+
+</div>
+
+
+
+
+    <hr/>
+
+
+
+
+
+
+<div class="image-container2">
+<h2> Sécurité aluminium </h2>
+
+
+<img src="./image/fenetre_aluminium1_8.png" title="image fenetre pvc" alt="image fenetre pvc" class="image6 image6_1"/>
+<img src="./image/fenetre_aluminium1_9.png" title="image fenetre pvc" alt="image fenetre pvc" class="image6 image6_1"/>
+
+
+
+</br>
+
+</div>
+
+</br>
+
+<p id="fenetres">Les fenetres en aluminium Arcad’Eco sont une solution idéale pour ceux qui recherchent 
+    le meilleur rapport qualité prix.<br/><br/> Les menuiseries aluminium Arcad’Eco sont particulièrement 
+    adaptées au jeune habitat grace à leur prix attractif et aux différentes possibilités de personnalisation.</p>
+
+
+
+
+
+    <hr/>
+
+
+
+
+
+
+
+<div class="image-container2">
+<h2> Isolation en aluminium</h2>
+
+
+<img src="./image/fenetre_aluminium1_3.png" title="image fenetre pvc" alt="image fenetre pvc" class="image6 image6_1"/>
+
+
+
+</br>
+
+</div>
+
+</br>
+
+<p id="fenetres">Nos fenêtres en aluminium Arcad’lux assurent une isolation de qualité avec leur double 
+    vitrage 4-20-4ITR+gaz, offrant un confort optimal et éligibles au crédit d'impôt. <br/><br/>hoisissez la sécurité 
+    et l'économie avec nos fenêtres 
+    en aluminium Arcad’Eco, offrant un excellent rapport qualité-prix et une personnalisation adaptée à vos besoins.</p>
+
+
+
+
+<br/>
+
+
+
+<hr/>
 
 
 </br>
