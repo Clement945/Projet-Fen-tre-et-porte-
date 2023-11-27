@@ -82,7 +82,7 @@
     Arcades et Baies signe pour vous <strong>des créations BOIS exclusives</strong>. <br/><br/>Peaufinez chaque détail, nous fabriquons.<br/><br/>
 
 Chez nous le « sur-mesure » n’est pas un slogan. C’est une véritable philosophie d’entreprise.<br/> Que vous aimiez les manoirs de charme, les lofts inspirés, les villas d’architecte ou les maisons de famille…
-laissez-vous porter par les multiples modèles traditionnels ou contemporains proposés.<br/><br/> Une porte pour chaque style. Choisissez le vôtre et faites la différence.</p>
+laissez-vous porter par les multiples modèles traditionnels ou contemporains proposés.<br/><br/> Une porte pour chaque style. <br/><br/>Choisissez le vôtre et faites la différence.</p>
 
 </br>
 
@@ -116,7 +116,7 @@ laissez-vous porter par les multiples modèles traditionnels ou contemporains pr
             <li>La gamme traditionnel pour sublimer vos maisons avec des designs classiques.</li></br>
             <li>La gamme contemporaine pour donner une nouvelle vie à votre maison avec des designs originaux.</li></br>
         </ul>
-        <li>Retrouvez tous nos modèles de portes bois dans notre catalogue <span id="liennoir"><a href="https://issuu.com/forlis/docs/cat_pe_ab_10-15/19?e=16570839/31008940" title="site catalogue porte en bois" target="_blank">(cliquez-ici)</a></span></li></br>
+        <li>Retrouvez tous nos modèles de portes bois dans notre catalogue <strong><span id="liennoir"><a href="https://issuu.com/forlis/docs/cat_pe_ab_10-15/19?e=16570839/31008940" title="site catalogue porte en bois" target="_blank">(cliquez-ici)</a></span></strong></li></br>
     </ul>
 
 </div>
@@ -157,7 +157,7 @@ laissez-vous porter par les multiples modèles traditionnels ou contemporains pr
 <div class="image-container2">
 <h2> Sécurité haut de gamme </h2>
 
-<img src="./image/porte_bois13.png" title="image porte bois" alt="image porte bois" class="image6 image6_1"/>
+<img src="./image/porte_bois13.png" title="image porte bois" alt="image porte bois" class="image6 image6_1 image11"/>
 
 
 

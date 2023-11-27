@@ -40,7 +40,7 @@
     <br/>
     <br/>
 
-    <h1 id="fenetres">Porte en bois</h1>
+    <h1 id="fenetres">Porte en PVC</h1>
     <br/>
 
 
@@ -50,14 +50,13 @@
 <div id="image-coulissant2">
     <div id="image-coulissant">
         <div class="image-container">
-        <img src="./image/porte_bois1.png" title="image porte" alt="image porte" id="image1.1"/>
-        <img src="./image/porte_bois2.png" title="image porte" alt="image porte" id="image2"/>
-        <img src="./image/porte_bois3.png" title="image porte" alt="image porte" id="image3"/>
-        <img src="./image/porte_bois4.png" title="image porte" alt="image porte" id="image4"/>
-        <img src="./image/porte_bois5.png" title="image porte" alt="image porte" id="image5"/>
-        <img src="./image/porte_bois6.png" title="image porte" alt="image porte" id="image5"/>
-        <img src="./image/porte_bois7.png" title="image porte" alt="image porte" id="image5"/>
-        <img src="./image/porte_bois8.png" title="image porte" alt="image porte" id="image5"/>
+        <img src="./image/porte_pvc1.png" title="image porte pvc" alt="image porte pvc" id="image1.1"/>
+        <img src="./image/porte_pvc2.png" title="image porte pvc" alt="image porte pvc" id="image2"/>
+        <img src="./image/porte_pvc3.png" title="image porte pvc" alt="image porte pvc" id="image3"/>
+        <img src="./image/porte_pvc4.png" title="image porte pvc" alt="image porte pvc" id="image4"/>
+        <img src="./image/porte_pvc5.png" title="image porte pvc" alt="image porte pvc" id="image5"/>
+        <img src="./image/porte_pvc6.png" title="image porte pvc" alt="image porte pvc" id="image5"/>
+        <img src="./image/porte_pvc7.png" title="image porte pvc" alt="image porte pvc" id="image5"/>
 
 
 </div>
@@ -67,7 +66,7 @@
 <br/>
 
 
-<h1 id="pose"><u>Installation de porte en bois : plusieurs variétés de modeles, de techniques et de designs</u></h1>
+<h1 id="pose"><u>Installation de porte en PVC : plusieurs variétés de modeles, de techniques et de designs</u></h1>
 <br/>
 <br/>
 
@@ -78,11 +77,8 @@
 
 </br>
 
-    <p>Notre collection de <strong>portes d’entrée BOIS</strong> est notre propre écriture. Un univers d’exception, dans lequel nos matériaux de prédilection rencontrent la couleur, le verre, le métal… s’inscrivent dans des formes inédites… côtoient des techniques d’usinage inventives… expriment avec force modernité et authenticité.<br/> <br/>
-    Arcades et Baies signe pour vous <strong>des créations BOIS exclusives</strong>. <br/><br/>Peaufinez chaque détail, nous fabriquons.<br/><br/>
-
-Chez nous le « sur-mesure » n’est pas un slogan. C’est une véritable philosophie d’entreprise.<br/> Que vous aimiez les manoirs de charme, les lofts inspirés, les villas d’architecte ou les maisons de famille…
-laissez-vous porter par les multiples modèles traditionnels ou contemporains proposés.<br/><br/> Une porte pour chaque style. Choisissez le vôtre et faites la différence.</p>
+    <p>Notre collection de <strong>portes d’entrée PVC</strong> est notre propre écriture. <br/><br/>Un univers d’exception, dans lequel nos matériaux de prédilection rencontrent la couleur, le verre, le métal… s’inscrivent dans des formes inédites… côtoient des techniques d’usinage inventives… expriment avec force modernité et authenticité. <br/>Arcades et Baies signe pour vous des créations PVC exclusives. Peaufinez chaque détail, nous fabriquons.<br/><br/>
+Chez nous le <strong>« sur-mesure »</strong> n’est pas un slogan.<br/><br/> C’est une véritable philosophie d’entreprise. Que vous aimiez les manoirs de charme, les lofts inspirés, les villas d’architecte ou les maisons de famille… laissez-vous porter par les multiples modèles traditionnels ou contemporains proposés. <br/>Une porte pour chaque style.<br/><br/> Choisissez le vôtre et faites la différence.</p>
 
 </br>
 
@@ -91,7 +87,133 @@ laissez-vous porter par les multiples modèles traditionnels ou contemporains pr
 <hr/>
 
 
+<div class="image-container2">
+<h2> Choix de gammes </h2>
 
+<img src="./image/porte_pvc8.png" title="image porte PVC" alt="image porte PVC" class="image6 image6_1"/>
+<img src="./image/porte_pvc9.png" title="image porte PVC" alt="image porte PVC" class="image6 image6_2"/>
+<img src="./image/porte_pvc10.png" title="image porte PVC" alt="image porte PVC" class="image6 image6_3"/>
+
+
+
+
+</br>
+
+</div>
+
+</br>
+
+<div class="listepuce">
+    <ul>
+        <li>ARCADES et BAIES signe des créations exclusives pour la majorité de sa collection bois.</li></br>
+            <li>Arcades et baies vous propose le choix de plusieurs gammes :</li><br/>
+            <ul>
+            <li>
+            La gamme traditionnel pour sublimer vos maisons avec des designs classiques.
+            </li></br>
+
+            <li>La gamme contemporaine pour donner une nouvelle vie à votre maison avec des designs originaux.</li><br/><br/><br/>
+            </ul>
+            <li>Retrouvez tous nos modèles de portes dans notre catalogue  <strong><span id="liennoir"><a href="https://issuu.com/forlis/docs/cat_pe_ab_10-15/19?e=16570839/31008940" title="site catalogue porte en bois" target="_blank">(cliquez-ici)</a></span></strong></li></br>
+
+    </ul>
+
+</div>
+
+
+
+<hr/>
+
+
+<div class="image-container2">
+<h2> Isolation optimale </h2>
+
+<img src="./image/porte_pvc11.png" title="image porte PVC" alt="image porte PVC" class="image6 image6_1"/>
+
+
+
+
+
+</br>
+
+</div>
+
+</br>
+
+<div class="listepuce">
+    <ul>
+        <li>Toutes nos portes Aluminium sont conçues pour offrir une isolation thermique optimale (Ud selon la compostions de chaque modèle)</li></br>
+
+           
+
+    </ul>
+
+</div>
+
+
+
+<hr/>
+
+
+<div class="image-container2">
+<h2> Sécurité haut de gamme </h2>
+
+<img src="./image/porte_pvc12.png" title="image porte PVC" alt="image porte PVC" class="image10"/>
+
+
+
+
+
+</br>
+
+</div>
+
+</br>
+
+<div class="listepuce">
+    <ul>
+        <li>Dotée d’une serrure automatique de 6 points dont 2 crochets « sécurité » (2 rouleaux, 2 crochets, 1 pêne dormant + gâches réglables)</li></br>
+        <li>D’un cylindre haute sûreté</li></br>
+        <li>D’un double vitrage retardateur d’effraction (voire triple vitrage sur certains modèles)</li></br>
+        <li>La porte d’entrée ARCADES et BAIES présente une conception garantie d’une sécurité accrue</li>
+
+    </ul>
+
+</div>
+
+
+
+<hr/>
+
+
+<div class="image-container2">
+<h2> ECO-CONCEPTION </h2>
+
+<img src="./image/porte_pvc13.png" title="image porte PVC" alt="image porte PVC" class="image11"/>
+
+
+
+
+
+</br>
+
+</div>
+
+</br>
+
+<div class="listepuce">
+    <ul>
+        <li>Les notions de création et de qualité sont, pour ARCADES et BAIES indissociables de celles du respect de l’environnement</li></br>
+        <li>Nos portes sont conçues avec l’objectif de réduire leur impact écologique.</li>
+
+    </ul>
+
+</div>
+
+
+
+
+<hr/>
 
 <br/>
 </br>
@@ -111,6 +233,6 @@ laissez-vous porter par les multiples modèles traditionnels ou contemporains pr
         </p>
     </footer>
 
-    
+
 </body>
 </html>

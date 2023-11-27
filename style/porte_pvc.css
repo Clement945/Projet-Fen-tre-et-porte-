@@ -105,29 +105,11 @@ nav li:hover .sub-menu {
     }
     
     .image-container {
-        display: flex;
-        animation-duration: 12s;
-        animation-name: mesImages;
-        animation-iteration-count: infinite;
+        border: 1px solid #000000
     }
     
-    #image-coulissant{
-        width: 1000px;
-        overflow: hidden;
-    }
-    
-    @keyframes mesImages {
-        0%{
-            transform: translateX(0);
-        }
-    
-        50% {
-            transform: translateX(-50px);
-        }
-        100%{
-            transform: translateX(0);
-        }
-    }
+ 
+
     
     
     #pose{
@@ -203,10 +185,13 @@ nav li:hover .sub-menu {
 
 
 
-#image10{
-width: 100%;
+.image10{
+width: 30%;
 }
 
+.image11{
+    width: 20%;
+}
 
 
 
