@@ -1,0 +1,262 @@
+html{
+    scroll-behavior: smooth;  /*met en animation en mode lisse */
+}
+
+body {
+    background-color: #ecf0f1;
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+/* navigation */
+
+a {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+nav {
+    text-align: center;
+    background-color: #34495e; /* Gris foncé pour l'équilibre */
+    margin: 0;
+    border-bottom: 2px solid #000000;
+}
+
+nav ul {
+    margin: 0;
+    padding: 0; /* Ajout pour enlever le padding par défaut du navigateur */
+}
+
+nav ul li {
+    display: inline-block;
+    line-height: 50px;
+    padding: 14px;
+    color: #FFFFFF;
+    position: relative;
+}
+
+nav li a {
+    display: block;
+}
+
+nav li:hover {
+    background-color: #3498db;
+}
+
+nav li:hover .sub-menu {
+    display: block;
+    left: 0;
+    transform: translateX(-30%);
+}
+
+
+#image1{
+    position: absolute;  /* centre l'image et permet de ne pas bouger l'image */
+    top: 2%;
+    left: 4%;
+    width: 120px;
+    height: 50px;
+
+}
+
+
+/*sous navigation */
+
+.sub-menu {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 200px; /* Ajuster la largeur selon les besoins */
+    background-color: #ffffff; /* Couleur de fond du sous-menu */
+    border: 1px solid #000000; /* Bordure du sous-menu */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Ombre du sous-menu */
+    z-index: 1;
+}
+
+.sub-menu a {
+    color: #000000; /* Couleur du texte dans le sous-menu */
+    padding: 0px;
+    display: block;
+    border-bottom: 1px solid #000000; /* Bordure entre les éléments de la sous-liste */
+}
+
+
+
+/*coprs de page */
+
+
+#fenetres{
+    text-align: center;
+}
+
+    /*image coulissant*/
+
+    #image-coulissant2{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: rgb(152, 147, 147);
+        border: 2px solid #000000
+    }
+    
+    .image-container {
+        display: flex;
+        animation-duration: 12s;
+        animation-name: mesImages;
+        animation-iteration-count: infinite;
+    }
+    
+    #image-coulissant{
+        width: 1000px;
+        overflow: hidden;
+    }
+    
+    @keyframes mesImages {
+        0%{
+            transform: translateX(0);
+        }
+    
+        50% {
+            transform: translateX(-210px);
+        }
+        100%{
+            transform: translateX(0);
+        }
+    }
+    
+    
+    #pose{
+        text-align: center;
+    }
+
+
+
+.text{
+        text-align: center;
+        background-color: rgb(152, 147, 147);
+        border: 2px solid #000000;
+    }
+    
+    .image6 {
+        display: inline-block;
+        max-width: 100%; /* La largeur maximale est fixée à 100% de la largeur disponible */
+        height: auto; /* Ajuste la hauteur en fonction de la largeur pour maintenir les proportions */
+    }
+    
+    .image6_1, .image6_2, .image6_3{
+        width: 300px;
+        height: 250px;
+    }
+    
+    
+    .image-container2{
+        text-align: center;
+    }
+
+
+
+
+    .listepuce ul {
+        padding: 0; /* Supprimer le padding par défaut de la liste */
+        list-style-position: inside; /* Positionner les puces à l'intérieur du conteneur li */
+        display: flex; /* Utiliser Flexbox pour centrer les éléments */
+        flex-direction: column; /* Afficher les éléments verticalement */
+        justify-content: center; /* Centrer les éléments verticalement */
+        align-items: center; /* Centrer les éléments horizontalement */
+    }
+    
+    .listepuce ul li {
+        text-align: center; /* Aligner le texte à gauche à l'intérieur de chaque élément de la liste */
+    }
+    
+    
+    .bouton-fenetre{
+        text-align: center;
+    }
+    
+    .bouton {
+        display: inline-block;
+        padding: 10px 20px;
+        font-size: 16px;
+        text-align: center;
+        text-decoration: none;
+        background-color: #3498db;
+        color: #ffffff;
+        border-radius: 5px;
+        transition: background-color 0.3s ease;
+        text-align: center;
+    }
+    
+    .bouton:hover {
+        background-color: #2980b9;
+    }
+    
+
+
+
+
+
+
+
+
+
+
+
+/* lien cliquable pour remonter au début de la page  */
+
+#index{
+    text-align: center;
+}
+
+#index a {
+    color: #000000;
+    border: 1px solid #000000; /* Ajoute une bordure de 1 pixel de large autour du lien */
+    padding: 5px 10px; /* Ajoute du padding pour un aspect visuel agréable */
+    text-decoration: none; /* Supprime la soulignement par défaut du lien */
+}
+
+#index a:hover {
+    background-color: #000000; /* Change la couleur de fond lors du survol */
+    color: #ffffff; /* Change la couleur du texte lors du survol */
+}
+
+
+
+/* footer (bas de page) */
+
+footer p{
+    text-align: center;
+}
+
+
+
+footer{
+    color: #000000;
+    background-color: rgb(152, 147, 147);
+    margin-top: 80px;
+    text-align: center;
+    margin:0;
+
+    
+}
+
+
+#footer{
+    font-size: 15px;
+    color: #000000;
+}
+
+footer p a{
+    color:#000000;
+}
+
+footer p{
+    display : inline-block;
+    line-height: 0px;
+    padding: 1rem;
+}

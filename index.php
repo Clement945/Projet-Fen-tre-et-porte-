@@ -22,9 +22,9 @@
             </li>
             <li><a href="portes.php">Portes</a>
             <ul class="sub-menu">
-                    <li><a href="fenetre_pvc.php">Portes Bois</a></li>
-                    <li><a href="fenetre_bois.php">Portes PVC</a></li>
-                    <li><a href="fenetre_aluminium.php">Portes Aluminium</a></li>
+                    <li><a href="porte_bois.php">Portes Bois</a></li>
+                    <li><a href="porte_pvc.php">Portes PVC</a></li>
+                    <li><a href="porte_aluminium.php">Portes Aluminium</a></li>
                 </ul>
                 </li>
             <li><a href="volets.php">Volets</a></li>
@@ -41,7 +41,7 @@
     <br/>
     <br/>
 
-    <h1> Bienvenue sur le site Fenêtre et porte de l'entreprise HMF </br>(Habitations Moderne de France) </h1>
+    <h1> Bienvenue sur le site Fenêtre et porte de l'entreprise HMF </br>(Habitations Moderne de France) <br/>avec le partenariat d'Arcades et Baies </h1>
 
     <br/>
     <br/>

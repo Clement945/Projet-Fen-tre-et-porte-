@@ -21,9 +21,9 @@
             </li>
             <li><a href="portes.php">Portes</a>
             <ul class="sub-menu">
-                    <li><a href="fenetre_pvc.php">Portes Bois</a></li>
-                    <li><a href="fenetre_bois.php">Portes PVC</a></li>
-                    <li><a href="fenetre_aluminium.php">Portes Aluminium</a></li>
+                    <li><a href="porte_bois.php">Portes Bois</a></li>
+                    <li><a href="porte_pvc.php">Portes PVC</a></li>
+                    <li><a href="porte_aluminium.php">Portes Aluminium</a></li>
                 </ul>
                 </li>
             <li><a href="volets.php">Volets</a></li>
@@ -102,7 +102,7 @@ Avec une <strong>installation de fenêtre bois en région parisienne</strong> de
 
 <div class="listepuce">
     <ul>
-        <li>Vous pouvez voir pres de Paris une fenetre en bois isolante  dans notre magasin de Fontenay-sous-bois.</li></br>
+        <li>Vous pouvez voir près de Paris une fenetre en bois isolante  dans notre magasin de Fontenay-sous-bois.</li></br>
         <li>Ces fenetres isolantes en bois vous offrent un confort et une sécurité haut de gamme.</li></br>
         <li>Les ouvrants en bois d’une qualité exceptionnelle sont disponibles en trois versions : </li></br>
         <ul>
@@ -126,7 +126,7 @@ Avec une <strong>installation de fenêtre bois en région parisienne</strong> de
 <h2>Isolation en bois</h2>
 
 
-<img src="./image/fenetre_bois1_7_1.png" title="image fenetre bois" alt="image fenetre bois" class="image6 image6_1"/>
+<img src="./image/fenetre_bois1_1.png" title="image fenetre bois" alt="image fenetre bois" class="image6 image6_1"/>
 
 <p id="fenetres">Grace a sa poignée secustik et ses points de securité, une fenetre bois Arcad’Lux vous offrira un niveau 
     de sécurité renforcé.<br/><br/> Pour améliorer la sécurité de votre intérieur 

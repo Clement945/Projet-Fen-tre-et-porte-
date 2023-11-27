@@ -21,9 +21,9 @@
             </li>
             <li><a href="portes.php">Portes</a>
             <ul class="sub-menu">
-                    <li><a href="fenetre_pvc.php">Portes Bois</a></li>
-                    <li><a href="fenetre_bois.php">Portes PVC</a></li>
-                    <li><a href="fenetre_aluminium.php">Portes Aluminium</a></li>
+                    <li><a href="porte_bois.php">Portes Bois</a></li>
+                    <li><a href="porte_pvc.php">Portes PVC</a></li>
+                    <li><a href="porte_aluminium.php">Portes Aluminium</a></li>
                 </ul>
                 </li>
             <li><a href="volets.php">Volets</a></li>
@@ -73,7 +73,7 @@
 
     <p> <strong>Installateur de fenetre à Fontenay sous bois</strong> et passionné par notre métier depuis toujours, <strong>HMF, magasin ARCADES ET BAIES</strong> <br/> effectue pour vous la <strong>pose de fenêtre sur mesure en Aluminium, bois ou PVC</strong> dans des configurations de formes, et de coloris variés. <br/><br/>
     Choisir une fenêtre ALU de chez ARCADES ET BAIES, c’est la garantie d’une fabrication 100% française. </br>
-    <br/>Choisissez differents types de fenetres … </p>
+    <br/>Choisissez differents types de fenetres… </p>
 
 </br>
 
@@ -102,7 +102,7 @@
 <div class="listepuce">
     <ul>
         <li><strong>Installateur de fenetre Bois à Fontenay sous bois</strong> et passionné par notre métier depuis toujours, <strong>HMF, magasin ARCADES ET BAIES</strong> effectue </br>pour vous la <strong>pose de fenêtre sur mesure en bois</strong> dans des configurations de formes, et de coloris variés.</li></br>
-        <li>Choisir une <strong>fenêtre Bois</strong> de chez ARCADES ET BAIES, c’est la garantie d’une <strong>abrication 100% française.</strong></li></br>
+        <li>Choisir une <strong>fenêtre Bois</strong> de chez ARCADES ET BAIES, c’est la garantie d’une <strong>fabrication 100% française.</strong></li></br>
     </ul>
 
 </div>
@@ -131,7 +131,7 @@
 
 <div class="listepuce">
     <ul>
-        <li><strong>Les fenêtres PVC ARCADES ET BAIES</strong> contribuent au charme d’une construction à Fontenay sous bois. Conçues sur-mesure, tant en nouvelle construction <br/>que dans le cadre d’une rénovation, HMF <strong>installe vos fenêtres pvc 
+        <li><strong>Les fenêtres PVC ARCADES ET BAIES</strong> contribuent au charme d’une construction à Fontenay sous bois. <br/>Conçues sur-mesure, tant en nouvelle construction que dans le cadre d’une rénovation, HMF <strong>installe vos fenêtres pvc 
             à Fontenay-Sous-Bois, Le Perreux-Sur-Marne, Nogent-sur-Marnes, Saint-Mandé et toute la région Parisienne.</strong></li></br>
     </ul>
 
@@ -160,8 +160,8 @@
 <div class="listepuce">
     <ul>
         <li>
-<strong>Installateur de fenetre Alu en région Parisienne</strong> et passionné par notre métier depuis toujours, <strong>HMF, magasin ARCADES ET BAIES</strong> <br/>effectue pour vous la <strong>pose de fenêtre sur mesure en Alu</strong> dans des configurations de formes, et de coloris variés. <br/>
-Choisir une fenêtre ALU de chez ARCADES ET BAIES, c’est la garantie d’une fabrication 100% française.</li></br>
+<strong>Installateur de fenetre Alu en région Parisienne</strong> et passionné par notre métier depuis toujours, <strong>HMF, magasin ARCADES ET BAIES</strong> <br/>effectue pour vous la <strong>pose de fenêtre sur mesure en Alu</strong> dans des configurations de formes, et de coloris variés. <br/><br/>
+Choisir une fenêtre ALU de chez ARCADES ET BAIES, c’est la garantie d’une <strong>fabrication 100% française.</strong></li></br>
     </ul>
 
 </div>

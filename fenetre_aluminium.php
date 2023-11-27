@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" type="text/css" href="style/fenetre_aluminium.css"/>
-    <title>Fenêtres - Fenêtre et porte </title>
+    <title>Fenêtres en aluminium - Fenêtre et porte </title>
 </head>
 <body>
 
@@ -21,9 +21,9 @@
             </li>
             <li><a href="portes.php">Portes</a>
             <ul class="sub-menu">
-                    <li><a href="fenetre_pvc.php">Portes Bois</a></li>
-                    <li><a href="fenetre_bois.php">Portes PVC</a></li>
-                    <li><a href="fenetre_aluminium.php">Portes Aluminium</a></li>
+                    <li><a href="porte_bois.php">Portes Bois</a></li>
+                    <li><a href="porte_pvc.php">Portes PVC</a></li>
+                    <li><a href="porte_aluminium.php">Portes Aluminium</a></li>
                 </ul>
                 </li>
             <li><a href="volets.php">Volets</a></li>
