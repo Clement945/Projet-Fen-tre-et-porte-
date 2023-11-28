@@ -126,6 +126,9 @@
 <img src="./image/fenetre_pvc2.png" title="image fenetre pvc" alt="image fenetre pvc" class="image6 image6_2"/>
 <img src="./image/fenetre_pvc3.png" title="image fenetre pvc" alt="image fenetre pvc" class="image6 image6_3"/>
 
+
+</div>
+
 </br>
 </div>
 
@@ -156,6 +159,8 @@
 <img src="./image/fenetre_aluminium1.png" title="image fenetre aluminium" alt="image fenetre aluminium" class="image6 image6_1"/>
 <img src="./image/fenetre_aluminium2.png" title="image fenetre aluminium" alt="image fenetre aluminium" class="image6 image6_2"/>
 <img src="./image/fenetre_aluminium3.png" title="image fenetre aluminium" alt="image fenetre aluminium" class="image6 image6_3"/>
+
+</div>
 
 <div class="listepuce">
     <ul>

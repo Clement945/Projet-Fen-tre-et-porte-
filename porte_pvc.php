@@ -66,7 +66,7 @@
 <br/>
 
 
-<h1 id="pose"><u>Installation de porte en PVC : plusieurs variétés de modeles, de techniques et de designs</u></h1>
+<h1 id="pose"><u>Installation de porte en PVC : plusieurs variétés de modeles,<br/> de techniques et de designs</u></h1>
 <br/>
 <br/>
 
@@ -105,7 +105,7 @@ Chez nous le <strong>« sur-mesure »</strong> n’est pas un slogan.<br/><br/> 
 
 <div class="listepuce">
     <ul>
-        <li>ARCADES et BAIES signe des créations exclusives pour la majorité de sa collection bois.</li></br>
+        <li>ARCADES et BAIES signe des créations exclusives pour la majorité de sa collection de porte en PVC.</li></br>
             <li>Arcades et baies vous propose le choix de plusieurs gammes :</li><br/>
             <ul>
             <li>
@@ -181,7 +181,7 @@ Chez nous le <strong>« sur-mesure »</strong> n’est pas un slogan.<br/><br/> 
 
 </div>
 
-
+<br/>
 
 <hr/>
 
@@ -210,7 +210,7 @@ Chez nous le <strong>« sur-mesure »</strong> n’est pas un slogan.<br/><br/> 
 
 </div>
 
-
+<br/>
 
 
 <hr/>

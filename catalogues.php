@@ -3,10 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" type="text/css" href="style/baies_vitrees.css"/>
-    <title>Baies vitrées - Fenêtre et porte</title>
+    <link rel="stylesheet" type="text/css" href="style/catalogues.css"/>
+
+    <title>Catalogues - Fenêtre et porte</title>
 </head>
 <body>
+
+
 
 
 <nav>
@@ -40,7 +43,7 @@
     <br/>
     <br/>
 
-    <h1 id="fenetres">BAIES VITRÉES</h1>
+    <h1 id="fenetres">CATALOGUES</h1>
     <br/>
     <br/>
 
@@ -49,9 +52,9 @@
 <div id="image-coulissant2">
     <div id="image-coulissant">
         <div class="image-container">
-        <img src="./image/baies_vitree1.png" title="image baies vitrée" alt="image baies vitrée" id="image1.1"/>
-        <img src="./image/baies_vitree2.png" title="image baies vitrée" alt="image baies vitréet" id="image2"/>
-        <img src="./image/baies_vitree3.png" title="image baies vitrée" alt="image baies vitrée" id="image3"/>
+        <img src="./image/catalogue1.png" title="image baies vitrée" alt="image baies vitrée" id="image1.1"/>
+        <img src="./image/catalogue2.png" title="image baies vitrée" alt="image baies vitréet" id="image2"/>
+        <img src="./image/catalogue3.png" title="image baies vitrée" alt="image baies vitrée" id="image3"/>
 
 </div>
 </div>
@@ -60,7 +63,9 @@
 <br/>
 <br/>
 
-<h1 id="pose"><u>POSE DE BAIES VITRÉES EN REGION PARISIENNE </u></h1>
+
+
+<h1 id="pose"><u>POSE DE FENETRE, PORTE, VOLET ET BAIES VITRÉES<br/> EN REGION PARISIENNE</u></h1>
 <br/>
 <br/>
 
@@ -70,10 +75,14 @@
 
 </br>
 
-    <p>La <strong>baie vitrée coulissante ARCADES ET BAIES installée par HMF en région parisienne</strong> donne la priorité à la lumière pour votre maison.
-     <br/>Les performances thermiques de nos baies participent également activement aux économies d’énergie.<br/><br/> Fabriquées en France, à vos mesures, elles répondent aux normes les plus strictes en vigueur et sont éligibles au crédit d’impôt (selon legislation en vigeur). <br/><br/>
+    <p>Vous ne trouvez pas l’information recherchée dans nos catalogues ? <br/>Demandez un <strong>devis personnalisé</strong> à votre conseiller Arcades et Baies. C’est <strong>gratuit et sans engagement</strong> !<br/><br/>
 
-La <strong>baie coulissante en aluminium en région parisienne</strong>, se décline dans une multitude de couleurs satinées ou sablées… Faites votre choix. </p>
+
+Vous pouvez nous contacter par téléphone au <strong>01.75.43.89.51</strong>, en remplissant le fomulaire de demande de devis ou en venant dans notre magasin de Fontenay-sous-bois (94120) à proximité de Vincennes (94300) dans le Val-de-Marne en Région parisienne.
+<br/><br/>
+Voici les catalogues présentés.
+</p>
+
 
 </br>
 
@@ -81,32 +90,27 @@ La <strong>baie coulissante en aluminium en région parisienne</strong>, se déc
 <hr/>
 
 
-
-
-
 <div class="image-container2">
-<h2> Choix du volet </h2>
+<h2> Catalogue de fenêtre </h2>
 
-<img src="./image/baies_vitree4.png" title="image baies vitrée" alt="image baies vitrée" class="image6 image6_1"/>
-<img src="./image/baies_vitree5.png" title="image baies vitrée" alt="image baies vitrée" class="image6 image6_1"/>
-<img src="./image/baies_vitree6.png" title="image baies vitrée" alt="image baies vitrée" class="image6 image6_1"/>
+<img src="./image/catalogue1.png" title="image baies vitrée" alt="image baies vitrée" class="image6 image6_1 image7"/>
 
 
 <br/>
 <br/>
 </div>
 
-<div class="listepuce">
-    <ul>
-        <li>Demandez à Fontenay-sous-bois (94120) une baie vitree aluminium haut de gamme pour améliorer votre securite et votre confort.</li></br>
-        <li>Proposée avec un double vitrage 4-20-4ITR+gaz eligible au credit d’impot, cette porte fenetre coulissante peut être laquée pour une finition<br/> personnalisée avec un choix de couleur important.</li></br>
-
-        <li>Vous pouvez personnaliser votre baie vitree Arcad’Lux  grace aux multiples options de decoration (petits-bois, traverses, vitrage décoratif…).</li></br>
+<p id="fenetres">Notre catalogue Fenêtres vous présente notre offre en matière de fenetres PVC, bois et aluminium.<br/><br/>
+Que se soit la gamme Arcad’Lux ou les produits Arcad’Eco, toutes les fenetres Arcades et Baies sont détaillées dans ce catalogue<br/> que vous pouvez télécharger d’un simple clic. <br/><br/>
+Vous y trouverez toutes les options de personnalisation et les informations techniques des fenetres fabriquées dans l’usine d’Arcades et Baies située en Vendée.
+ </p>
 
 
-    </ul>
 
 </div>
+
+
+
 
 
 
@@ -127,6 +131,7 @@ La <strong>baie coulissante en aluminium en région parisienne</strong>, se déc
     </footer>
 
 
+    
     
 </body>
 </html>

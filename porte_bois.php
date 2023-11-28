@@ -67,7 +67,7 @@
 <br/>
 
 
-<h1 id="pose"><u>Installation de porte en bois : plusieurs variétés de modeles, de techniques et de designs</u></h1>
+<h1 id="pose"><u>Installation de porte en bois : plusieurs variétés de modeles,<br/> de techniques et de designs</u></h1>
 <br/>
 <br/>
 
