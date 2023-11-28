@@ -176,7 +176,7 @@ Le catalogue Securystar présente de manière détaillée l’offre de notre par
 
 <div class="bouton-fenetre">
 
-<a href="https://issuu.com/forlis/docs/cat_pe_ab_10-15?e=16570839/31008940" class="bouton" target="_blank">Catalogue de porte</a>
+<a href="https://issuu.com/forlis/docs/cat_pe_ab_10-15?e=16570839/31008940" class="bouton" target="_blank">Catalogue de porte les plus vendus</a>
 
 </div>
 
