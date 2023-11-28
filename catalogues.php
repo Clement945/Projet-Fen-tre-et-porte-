@@ -152,6 +152,36 @@ Le catalogue Securystar présente de manière détaillée l’offre de notre par
 <br/>
 
 
+<hr/>
+
+
+<div class="image-container2">
+<h2> Catalogue de porte les plus vendues </h2>
+
+<img src="./image/catalogue3.png" title="image catalogue porte" alt="image catalogue porte" class="image6 image6_1 image7"/>
+
+
+<br/>
+<br/>
+</div>
+
+<p id="fenetres">En PVC, bois ou aluminium, Les modèles de portes les plus utiliser sont réunis dans un catalogue.
+
+<br/><br/>Pour vous aider à faire votre choix, n’hésitez pas à nous contacter.</p>
+
+
+
+</div>
+<br/>
+
+<div class="bouton-fenetre">
+
+<a href="https://issuu.com/forlis/docs/cat_pe_ab_10-15?e=16570839/31008940" class="bouton" target="_blank">Catalogue de porte</a>
+
+</div>
+
+<br/>
+
 
 
 <hr/>
