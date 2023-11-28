@@ -52,9 +52,9 @@
 <div id="image-coulissant2">
     <div id="image-coulissant">
         <div class="image-container">
-        <img src="./image/catalogue1.png" title="image baies vitrée" alt="image baies vitrée" id="image1.1"/>
-        <img src="./image/catalogue2.png" title="image baies vitrée" alt="image baies vitréet" id="image2"/>
-        <img src="./image/catalogue3.png" title="image baies vitrée" alt="image baies vitrée" id="image3"/>
+        <img src="./image/catalogue1.png" title="iimage catalogue" alt="image baies vitrée" id="image1.1"/>
+        <img src="./image/catalogue2.png" title="image catalogue" alt="image baies vitréet" id="image2"/>
+        <img src="./image/catalogue3.png" title="image catalogue" alt="image baies vitrée" id="image3"/>
 
 </div>
 </div>
@@ -93,7 +93,7 @@ Voici les catalogues présentés.
 <div class="image-container2">
 <h2> Catalogue de fenêtre </h2>
 
-<img src="./image/catalogue1.png" title="image baies vitrée" alt="image baies vitrée" class="image6 image6_1 image7"/>
+<img src="./image/catalogue1.png" title="image catalogue porte" alt="image catalogue porte" class="image6 image6_1 image7"/>
 
 
 <br/>
@@ -109,7 +109,47 @@ Vous y trouverez toutes les options de personnalisation et les informations tech
 
 </div>
 
+<br/>
 
+<div class="bouton-fenetre">
+
+<a href="https://issuu.com/forlis/docs/cat_men_ab_09-15?e=16570839/31008203" class="bouton" target="_blank">Catalogue de fenêtre</a>
+
+</div>
+
+<br/>
+
+<hr/>
+
+
+<div class="image-container2">
+<h2> Catalogue de porte </h2>
+
+<img src="./image/catalogue2.png" title="image catalogue porte" alt="image catalogue porte" class="image6 image6_1 image7"/>
+
+
+<br/>
+<br/>
+</div>
+
+<p id="fenetres">Le catalogue portes d’entrées expose notre collection de portes d’entrée PVC bois et aluminium.<br/> Contemporaines ou traditionnelles, nos portes d’entrée se déclinent en gamme «tout confort» ou «Eco».<br/><br/>
+De nombreux produits exclusifs utilisent des innovations techniques qu’Arcades et Baies est le premier à mettre en oeuvre.<br/><br/>
+En dehors des multiples options de personnalisation, le catalogue portes d’entrée présente une gamme « Sélect » en PVC et aluminium.<br/>
+<br/>
+Le catalogue Securystar présente de manière détaillée l’offre de notre partenaire Securystar en matière de portes blindées et autres menuiseries en acier.</p>
+
+
+
+</div>
+<br/>
+
+<div class="bouton-fenetre">
+
+<a href="https://issuu.com/forlis/docs/cat_pe_ab_10-15?e=16570839/31008940" class="bouton" target="_blank">Catalogue de porte</a>
+
+</div>
+
+<br/>
 
 
 
