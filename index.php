@@ -41,7 +41,7 @@
     <br/>
     <br/>
 
-    <h1> Bienvenue sur le site Fenêtre et porte de l'entreprise HMF </br>(Habitations Moderne de France) <br/>avec le partenariat d'Arcades et Baies </h1>
+    <h1> Bienvenue sur le site Fenêtre et porte de l'entreprise HMF </br>(Habitations Modernes de France) <br/>avec le partenariat d'Arcades et Baies </h1>
 
     <br/>
     <br/>

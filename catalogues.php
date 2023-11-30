@@ -93,8 +93,13 @@ Voici les catalogues présentés.
 <div class="image-container2">
 <h2> Catalogue de fenêtre </h2>
 
-<img src="./image/catalogue1.png" title="image catalogue porte" alt="image catalogue porte" class="image6 image6_1 image7"/>
+<div class="image_cliquable">
+<a href="https://issuu.com/forlis/docs/cat_men_ab_09-15?e=16570839/31008203" target="_blank">
 
+<img src="./image/catalogue1.png" title="image catalogue porte" alt="image catalogue porte" class="image6 image6_1 image7"/>
+</a>
+
+</div>
 
 <br/>
 <br/>
@@ -125,8 +130,13 @@ Vous y trouverez toutes les options de personnalisation et les informations tech
 <div class="image-container2">
 <h2> Catalogue de porte </h2>
 
+<div class="image_cliquable">
+<a href="https://issuu.com/forlis/docs/cat_pe_ab_10-15?e=16570839/31008940" target="_blank">
 <img src="./image/catalogue2.png" title="image catalogue porte" alt="image catalogue porte" class="image6 image6_1 image7"/>
 
+</a>
+
+</div>
 
 <br/>
 <br/>
@@ -158,9 +168,14 @@ Le catalogue Securystar présente de manière détaillée l’offre de notre par
 <div class="image-container2">
 <h2> Catalogue de porte les plus vendues </h2>
 
+<div class="image_cliquable">
+
+<a href="https://issuu.com/forlis/docs/mini_catalogue_pe_ab?e=16570839/34846209" target="_blank">
 <img src="./image/catalogue3.png" title="image catalogue porte" alt="image catalogue porte" class="image6 image6_1 image7"/>
 
+</a>
 
+</div>
 <br/>
 <br/>
 </div>
@@ -176,7 +191,7 @@ Le catalogue Securystar présente de manière détaillée l’offre de notre par
 
 <div class="bouton-fenetre">
 
-<a href="https://issuu.com/forlis/docs/cat_pe_ab_10-15?e=16570839/31008940" class="bouton" target="_blank">Catalogue de porte les plus vendus</a>
+<a href="https://issuu.com/forlis/docs/mini_catalogue_pe_ab?e=16570839/34846209" class="bouton" target="_blank">Catalogue de porte les plus vendus</a>
 
 </div>
 
