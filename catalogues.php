@@ -52,7 +52,7 @@
 <div id="image-coulissant2">
     <div id="image-coulissant">
         <div class="image-container">
-        <img src="./image/catalogue1.png" title="iimage catalogue" alt="image baies vitrée" id="image1.1"/>
+        <img src="./image/catalogue1.png" title="image catalogue" alt="image baies vitrée" id="image1.1"/>
         <img src="./image/catalogue2.png" title="image catalogue" alt="image baies vitréet" id="image2"/>
         <img src="./image/catalogue3.png" title="image catalogue" alt="image baies vitrée" id="image3"/>
 
