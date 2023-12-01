@@ -36,7 +36,7 @@
             <li><a href="contact.php">Contact</a></li>
         </ul>
 
-
+ 
     </nav>
 
     <img src="./image/logo_hmf.jpg" title="Image HMF" alt="image HMF" id="image1"/>
