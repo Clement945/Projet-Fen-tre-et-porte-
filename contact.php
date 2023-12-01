@@ -90,7 +90,7 @@
 <br/>
 
 
-<img src="./image/contact_mail.png" title="image catalogue" alt="image baies vitrée" class="image_contact"/>
+<img src="./image/contact_mail.png" title="image contact" alt="image baies vitrée" class="image_contact"/>
 
 <br/>
 
@@ -106,7 +106,7 @@
 <br/>
 
 
-<img src="./image/contact_telephone.svg" title="image catalogue" alt="image baies vitrée" class="image_contact"/>
+<img src="./image/contact_telephone.svg" title="image contact" alt="image baies vitrée" class="image_contact"/>
 
 
 <br/>
@@ -150,7 +150,7 @@
 <hr/>
 <br/>
 
-<h2>Adresse:</h2>
+<h2>Première adresse:</h2>
 
 
 <p class="taille_text">8 bis Rue Hoche 94140 Fontenay-sous-bois<br/> (Ouvert du Lundi au vendredi de 9h30 à 12h30)</p>
@@ -164,11 +164,36 @@
 </a>
 <br/>
 
-<hr/>
+
 
 <br/>
 
-<!-- Mettre la 2ème adresse -->
+<hr/>
+<br/>
+
+<h2>Deuxième adresse:</h2>
+
+
+<p class="taille_text">1 Avenue de stalingrad 94140 Fontenay-sous-bois<br/> (Ouvert du Lundi au jeudi de 14h à 17h)</p>
+
+
+<br/>
+
+
+<a href="https://www.google.com/maps/place/H.M.F.+-+Partenaire+Arcades+et+Baies/@48.8344841,2.4919468,14.49z/data=!4m6!3m5!1s0x47e60d2a3c491f97:0x335acb036ab0e355!8m2!3d48.8337492!4d2.4919188!16s%2Fg%2F11fp1p5nk5?entry=ttu" target="_blank">
+<img src="./image/contact_map2.png" title="image contact carte" alt="image contact carte" class="image_carte"/>
+</a>
+<br/>
+
+<hr/>
+
+<h3> DÉMARRER VOTRE PROJET D’INSTALLATION DE BAIE VITRÉE ET FENÊTRE COULISSANTE À FONTENAY SOUS BOIS AVEC HMF</h3>
+
+<p class="centre_texte"> Votre magasin Arcades et Baies HMF à Fontenay sous bois vous propose des menuiseries sur mesure fabriquées en France, au design exclusif<br/> et répondant aux normes les plus strictes en vigueur. Sécurité, Economies d’énergie, isolation phonique, confort d’utilisation, aides fiscales…</p>
+
+<br/>
+
+<img src="./image/contact_livre.png" title="image contact" alt="image contact" class="image_contact"/>
 
 
 <br/>

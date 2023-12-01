@@ -176,7 +176,7 @@ h2, .contact-item{
 .image_contact{
     display: block;
     margin: 0 auto;
-    width: 200px;
+    width: 160px;
 }
 
 .image_carte{
@@ -197,7 +197,13 @@ a .taille_text{
     color: #000000;
 }
 
+h3{
+    text-align: center;
+}
 
+.centre_texte{
+    text-align: center;
+}
 
 
 
