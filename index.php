@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Bienvenue sur le site de Fenêtre et Porte. Découvrez notre gamme de fenêtres, portes, volets, et bien plus encore.">
     <link rel="stylesheet" type="text/css" href="style/style.css"/>
     <title> Accueil - Fenêtre et porte  </title>
 </head>
