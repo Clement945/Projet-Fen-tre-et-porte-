@@ -57,7 +57,7 @@
 
 <br/>
 <br/>
-
+<hr/>
 <div class="text">
 
 <p> Voici notre page contact ! <br/><br/>
@@ -68,9 +68,6 @@
 </div>
 
 
-<br/>
-
-<br/>
 
 
 
