@@ -42,13 +42,13 @@
     <br/>
     <br/>
 
-    <h1> Bienvenue sur le site Fenêtre et porte de l'entreprise HMF </br>(Habitations Modernes de France) <br/>avec le partenariat d'Arcades et Baies </h1>
+    <h1> Bienvenue sur le site Fenêtres et portes de l'entreprise HMF </br>(Habitations Modernes de France) <br/>avec le partenariat d'Arcades et Baies </h1>
 
     <br/>
     <br/>
     
 <div id="image-coulissant2">
-    <div id="image-coulissant">
+    <div id="image-coulissant" class="animated">
         <div class="image-container">
         <img src="./image/volets-300x198.png" title="image volets" alt="image volets" id="image4"/>
         <img src="./image/porte-PVC-entréé-décor-234x300.png" title="Image porte PVC" alt="image HMF" id="image2"/>

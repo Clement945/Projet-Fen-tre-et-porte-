@@ -48,7 +48,7 @@
 
 <!-- Ajoutez ces balises à votre code HTML -->
 <div id="image-coulissant2">
-    <div id="image-coulissant">
+    <div id="image-coulissant" class="animated">
         <div class="image-container">
         <img src="./image/porte_bois1.png" title="image porte" alt="image porte" id="image1.1"/>
         <img src="./image/porte_bois2.png" title="image porte" alt="image porte" id="image2"/>
@@ -188,7 +188,7 @@ laissez-vous porter par les multiples modèles traditionnels ou contemporains pr
 <div class="image-container2">
 <h2> ECO-CONCEPTION </h2>
 
-<img src="./image/porte_bois14.png" title="image porte bois" alt="image porte bois" class="image10"/>
+<img src="./image/porte_bois14.png" title="image porte bois" alt="image porte bois" class="image10 image6"/>
 
 
 

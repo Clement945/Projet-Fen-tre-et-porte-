@@ -64,6 +64,15 @@ nav li:hover .sub-menu {
 }
 
 
+.image6, #image1_1 {
+    transition: transform 0.3s ease-in-out;
+}
+
+/* Appliquer la transformation au survol de l'image avec l'id image6 */
+.image6:hover, #image1_1:hover{
+    transform: scale(1.1); /* ou toute autre transformation souhaitée */
+}
+
 /*sous navigation */
 
 .sub-menu {

@@ -93,43 +93,50 @@ nav li:hover .sub-menu {
 #fenetres{
     text-align: center;
 }
+/*image coulissant*/
 
-    /*image coulissant*/
-
-    #image-coulissant2{
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        background-color: rgb(152, 147, 147);
-        border: 2px solid #000000
-    }
+#image-coulissant2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(152, 147, 147);
+    border: 2px solid #000000
+}
     
-    .image-container {
-        display: flex;
-        animation-duration: 12s;
-        animation-name: mesImages;
-        animation-iteration-count: infinite;
-    }
+.image-container {
+    border: 1px solid #000000
+}
+    
+
+/* Appliquer l'animation aux images coulissantes */
+
+/* Ajouter des transitions pour une animation en douceur */
+.image-container img {
+    transition: transform 0.3s ease-in-out;
+}
+
+/* Appliquer la transformation au survol de l'image */
+.image-container img:hover {
+    transform: scale(1.1); /* ou toute autre transformation souhaitée */
+}
+
+.image6 {
+    transition: transform 0.3s ease-in-out;
+}
+
+/* Appliquer la transformation au survol de l'image avec l'id image6 */
+.image6:hover {
+    transform: scale(1.1); /* ou toute autre transformation souhaitée */
+}
+ 
+ 
     
     #image-coulissant{
         width: 1000px;
         overflow: hidden;
     }
     
-    /* @keyframes mesImages {
-        0%{
-            transform: translateX(0);
-        }
-    
-        50% {
-            transform: translateX(-100px);
-        }
-        100%{
-            transform: translateX(0);
-        }
-    }
-    
-     */
+
     #pose{
         text-align: center;
     }

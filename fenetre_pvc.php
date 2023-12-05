@@ -48,7 +48,7 @@
 
 <!-- Ajoutez ces balises à votre code HTML -->
 <div id="image-coulissant2">
-    <div id="image-coulissant">
+    <div id="image-coulissant" class="animated">
         <div class="image-container">
         <img src="./image/fenetre_pvc1_1.png" title="image fenetre PVC" alt="image fenetre PVC" id="image1.1"/>
         <img src="./image/fenetre_pvc1_2.png" title="image fenetre PVC" alt="image fenetre PVC" id="image2"/>

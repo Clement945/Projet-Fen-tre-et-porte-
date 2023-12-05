@@ -47,7 +47,7 @@
 
 <!-- Ajoutez ces balises à votre code HTML -->
 <div id="image-coulissant2">
-    <div id="image-coulissant">
+    <div id="image-coulissant" class="animated">
         <div class="image-container">
         <img src="./image/volets1.png" title="image volet" alt="image volet" id="image1.1"/>
         <img src="./image/volets2.png" title="Image volet" alt="image volet" id="image2"/>

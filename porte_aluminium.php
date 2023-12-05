@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" type="text/css" href="style/porte_pvc.css"/>
+    <link rel="stylesheet" type="text/css" href="style/porte_aluminium.css"/>
     <title>Porte en bois - Fenêtre et porte </title>
 </head>
 <body>
@@ -45,7 +45,7 @@
 
 <!-- Ajoutez ces balises à votre code HTML -->
 <div id="image-coulissant2">
-    <div id="image-coulissant">
+    <div id="image-coulissant" class="animated">
         <div class="image-container">
         <img src="./image/porte_aluminium1.png" title="image porte aluminium" alt="image porte aluminium" id="image1.1"/>
         <img src="./image/porte_aluminium2.png" title="image porte aluminium" alt="image porte aluminium" id="image2"/>
@@ -158,7 +158,7 @@ Une porte pour chaque style. Choisissez le vôtre et faites la différence.</p>
 <div class="image-container2">
 <h2> Sécurité haut de gamme </h2>
 
-<img src="./image/porte_pvc12.png" title="image porte aluminium" alt="image porte aluminium" class="image10"/>
+<img src="./image/porte_pvc12.png" title="image porte aluminium" alt="image porte aluminium" class="image10 image6"/>
 
 
 
@@ -189,7 +189,7 @@ Une porte pour chaque style. Choisissez le vôtre et faites la différence.</p>
 <div class="image-container2">
 <h2> ECO-CONCEPTION </h2>
 
-<img src="./image/porte_pvc13.png" title="image porte aluminium" alt="image porte aluminium" class="image11"/>
+<img src="./image/porte_pvc13.png" title="image porte aluminium" alt="image porte aluminium" class="image11 image6"/>
 
 
 

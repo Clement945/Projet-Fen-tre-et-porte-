@@ -80,14 +80,14 @@
         <a href="mailto:hmf@fenetre-et-porte.fr">
             <p class="taille_text">hmf@fenetre-et-porte.fr</p>
         </a>
-        <img src="./image/contact_mail.png" title="image contact" alt="image baies vitrée" class="image_contact"/>
+        <img src="./image/contact_mail.png" title="image contact" alt="image baies vitrée" class="image_contact image6"/>
     
     </div>
 
     <div class="contact-item">
         <h2>Téléphone :</h2>
         <p class="taille_text">01 75 43 89 51</p>
-        <img src="./image/contact_telephone.svg" title="image contact" alt="image baies vitrée" class="image_contact"/>
+        <img src="./image/contact_telephone.svg" title="image contact" alt="image baies vitrée" class="image_contact image6"/>
       
     </div>
 
@@ -97,7 +97,7 @@
             <p class="taille_text">Cliquez-ici pour accéder</p>
         </a>
         <a href="https://emea01.safelinks.protection.outlook.com/?url=https%3A%2F%2Finstagram.com%2Farcadesetbaiesethmf%3Figshid%3DMmVlMjlkMTBhMg%3D%3D&data=05%7C01%7C%7C4e5ef8fdbb3c4dcdf5c708dbf1badbfc%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C638369557073265889%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=4%2BRJvrlJrUyxJkNswuPm2Q8qMy05LbeeCum7%2FvZe%2B58%3D&reserved=0" target="_blank">
-            <img src="./image/contact_instagram.png" title="image contact instagram" alt="image contact instagram" class="image_contact"/>
+            <img src="./image/contact_instagram.png" title="image contact instagram" alt="image contact instagram" class="image_contact image6"/>
         </a>
     
     </div>
@@ -108,7 +108,7 @@
             <p class="taille_text">Cliquez-ici pour accéder</p>
         </a>
         <a href="https://www.facebook.com/arcadesetbaies.fontenaysousbois/?locale=fr_FR" target="_blank">
-            <img src="./image/contact_facebook.webp" title="image contact facebook" alt="image contact facebook" class="image_contact"/>
+            <img src="./image/contact_facebook.webp" title="image contact facebook" alt="image contact facebook" class="image_contact image6"/>
         </a>
     </div>
 </div>
@@ -161,7 +161,7 @@
 
 <br/>
 
-<img src="./image/contact_livre.png" title="image contact" alt="image contact" class="image_contact"/>
+<img src="./image/contact_livre.png" title="image contact" alt="image contact" class="image_contact image6"/>
 
 
 <br/>

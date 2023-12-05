@@ -106,28 +106,44 @@ nav li:hover .sub-menu {
 .image-container {
     display: flex;
     justify-content: center;
-    animation-duration: 12s;
-    animation-name: mesImages;
+    /* animation-duration: 12s;
+    animation-name: mesImages; */
     animation-iteration-count: infinite;
 }
 
-#image-coulissant{
-    width: 1000px;
-    overflow: hidden;
+/*image coulissant*/
+
+#image-coulissant2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(152, 147, 147);
+}
+    
+
+    
+
+/* Appliquer l'animation aux images coulissantes */
+
+/* Ajouter des transitions pour une animation en douceur */
+.image-container img {
+    transition: transform 0.3s ease-in-out;
 }
 
-/* @keyframes mesImages {
-    0%{
-        transform: translateX(0);
-    }
+/* Appliquer la transformation au survol de l'image */
+.image-container img:hover {
+    transform: scale(1.1); /* ou toute autre transformation souhaitée */
+}
 
-    50% {
-        transform: translateX(-100px);
-    }
-    100%{
-        transform: translateX(0);
-    }
-} */
+.image6 {
+    transition: transform 0.3s ease-in-out;
+}
+
+/* Appliquer la transformation au survol de l'image avec l'id image6 */
+.image6:hover {
+    transform: scale(1.1); /* ou toute autre transformation souhaitée */
+}
+ 
 
 
 #pose{

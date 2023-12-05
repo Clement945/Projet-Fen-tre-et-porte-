@@ -48,7 +48,7 @@
 
 <!-- Ajoutez ces balises à votre code HTML -->
 <div id="image-coulissant2">
-    <div id="image-coulissant">
+    <div id="image-coulissant" class="animated">
         <div class="image-container">
         <img src="./image/fenetre_bois1_1.png" title="image volets" alt="image volets" id="image1.1"/>
         <img src="./image/fenetre_bois1_2.png" title="Image porte PVC" alt="image HMF" id="image2"/>

@@ -103,12 +103,12 @@ nav li:hover .sub-menu {
     border: 2px solid #000000
 }
 
-.image-container {
+/* .image-container {
     display: flex;
     animation-duration: 12s;
     animation-name: mesImages;
     animation-iteration-count: infinite;
-}
+} */
 
 #image-coulissant{
     width: 1000px;
@@ -126,6 +126,34 @@ nav li:hover .sub-menu {
     100%{
         transform: translateX(0);
     }
+}
+
+
+/* Appliquer l'animation aux images coulissantes */
+.animated .image-container {
+    display: flex;
+    animation-duration: 12s;
+    animation-name: mesImages;
+    animation-iteration-count: infinite;
+}
+
+/* Ajouter des transitions pour une animation en douceur */
+.image-container img {
+    transition: transform 0.3s ease-in-out;
+}
+
+/* Appliquer la transformation au survol de l'image */
+.image-container img:hover {
+    transform: scale(1.1); /* ou toute autre transformation souhaitée */
+}
+
+.image6 {
+    transition: transform 0.3s ease-in-out;
+}
+
+/* Appliquer la transformation au survol de l'image avec l'id image6 */
+.image6:hover {
+    transform: scale(1.1); /* ou toute autre transformation souhaitée */
 }
 
 

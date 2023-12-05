@@ -48,7 +48,7 @@
 
 <!-- Ajoutez ces balises à votre code HTML -->
 <div id="image-coulissant2">
-    <div id="image-coulissant">
+    <div id="image-coulissant" class="animated">
         <div class="image-container">
         <img src="./image/porte_pvc1.png" title="image porte pvc" alt="image porte pvc" id="image1.1"/>
         <img src="./image/porte_pvc2.png" title="image porte pvc" alt="image porte pvc" id="image2"/>
@@ -158,7 +158,7 @@ Chez nous le <strong>« sur-mesure »</strong> n’est pas un slogan.<br/><br/> 
 <div class="image-container2">
 <h2> Sécurité haut de gamme </h2>
 
-<img src="./image/porte_pvc12.png" title="image porte PVC" alt="image porte PVC" class="image10"/>
+<img src="./image/porte_pvc12.png" title="image porte PVC" alt="image porte PVC" class="image10 image6"/>
 
 
 
@@ -189,7 +189,7 @@ Chez nous le <strong>« sur-mesure »</strong> n’est pas un slogan.<br/><br/> 
 <div class="image-container2">
 <h2> ECO-CONCEPTION </h2>
 
-<img src="./image/porte_pvc13.png" title="image porte PVC" alt="image porte PVC" class="image11"/>
+<img src="./image/porte_pvc13.png" title="image porte PVC" alt="image porte PVC" class="image11 image6"/>
 
 
 
