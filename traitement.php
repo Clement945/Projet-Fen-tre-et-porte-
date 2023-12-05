@@ -109,6 +109,50 @@ try {
 ?>
 
 <br/>
+
+<?php
+if ($_SERVER["REQUEST_METHOD"] == "POST") {
+    // Récupérer les données du formulaire
+    $nom = $_POST['nom'];
+    $prenom = $_POST['prenom'];
+    $telephone = $_POST['telephone'];
+    $email = $_POST['email'];
+    $adresse = $_POST['adresse'];
+    $codePostal = $_POST['codePostal'];
+    $ville = $_POST['ville'];
+    $message = $_POST['message'];
+
+    // Adresse e-mail de destination
+    $destinataire = "clem945@hotmail.com"; // Remplacez par votre adresse e-mail
+
+    // Sujet de l'e-mail
+    $sujet = "Nouveau devis gratuit de $nom $prenom";
+
+    // Corps du message
+    $corpsMessage = "Nom: $nom\n";
+    $corpsMessage .= "Prénom: $prenom\n";
+    $corpsMessage .= "Téléphone: $telephone\n";
+    $corpsMessage .= "E-mail: $email\n";
+    $corpsMessage .= "Adresse: $adresse\n";
+    $corpsMessage .= "Code Postal: $codePostal\n";
+    $corpsMessage .= "Ville: $ville\n";
+    $corpsMessage .= "Message:\n$message";
+
+    // Entêtes de l'e-mail
+    $entetes = "From: $email\r\nReply-To: $email\r\n";
+
+    // Envoyer l'e-mail
+    $envoiMail = mail($destinataire, $sujet, $corpsMessage, $entetes);
+
+    if ($envoiMail) {
+        echo "L'e-mail a été envoyé avec succès.";
+    } else {
+        echo "Une erreur s'est produite lors de l'envoi de l'e-mail.";
+    }
+}
+?>
+
+<br/>
 <br/>
 
     <hr/>
