@@ -40,6 +40,8 @@
     <br/>
     <br/>
 
+<div class="section">
+
     <h1 id="fenetres">FENÊTRES</h1>
     <br/>
     <br/>
@@ -197,6 +199,8 @@ Choisir une fenêtre ALU de chez ARCADES ET BAIES, c’est la garantie d’une <
 
 </br>
 </br>
+
+</div>
 
 <footer>
         <p id="footer">

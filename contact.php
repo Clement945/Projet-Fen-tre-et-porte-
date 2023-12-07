@@ -43,6 +43,8 @@
     <br/>
     <br/>
 
+<div class="section">
+
     <h1 id="fenetres">CONTACT</h1>
     <br/>
     <br/>
@@ -176,6 +178,8 @@
 
 </br>
 </br>
+
+</div>
 
 <footer>
         <p id="footer">

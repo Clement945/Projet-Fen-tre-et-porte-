@@ -40,6 +40,8 @@
     <br/>
     <br/>
 
+    <div class="section">
+
     <h1 id="fenetres">Pose de fenêtre en bois</h1>
     <br/>
     <br/>
@@ -60,6 +62,7 @@
 </div>
 <br/>
 <br/>
+
 
 
 <h1 id="pose"><u>Pose de fenêtre en bois en région parisienne</u></h1>
@@ -177,6 +180,9 @@ Avec une <strong>installation de fenêtre bois en région parisienne</strong> de
 
 </br>
 </br>
+
+</div>
+
 
 <footer>
         <p id="footer">

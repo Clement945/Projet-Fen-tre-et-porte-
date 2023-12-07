@@ -223,7 +223,23 @@ nav li:hover .sub-menu {
     }
     
     
-
+.section {
+    opacity: 0; /* Commence avec une opacité de 0 pour cacher le texte */
+    animation: fadeIn 3.6s ease forwards; /* Utilise l'animation "fadeIn" pendant 1 seconde */
+}
+        
+@keyframes fadeIn {
+    to {
+    opacity: 1; /* À la fin de l'animation, l'opacité est de 1, affichant le texte */
+    }
+}
+    
+    /* footer (bas de page) */
+    
+    footer p{
+        text-align: center;
+    }
+    
 
 
 
@@ -248,12 +264,6 @@ nav li:hover .sub-menu {
     color: #ffffff; /* Change la couleur du texte lors du survol */
 }
 
-
-/* footer (bas de page) */
-
-footer p{
-    text-align: center;
-}
 
 
 

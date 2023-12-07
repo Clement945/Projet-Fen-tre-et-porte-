@@ -40,6 +40,8 @@
     <br/>
     <br/>
 
+<div class="section">
+
     <h1 id="fenetres">VOLETS</h1>
     <br/>
     <br/>
@@ -152,6 +154,9 @@ En PVC ou en ALUMINIUM, <strong>les volets roulants peuvent être motorisés</st
 
 </br>
 </br>
+
+
+</div>
 
 <footer>
         <p id="footer">

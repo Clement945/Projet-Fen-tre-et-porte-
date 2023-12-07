@@ -40,6 +40,8 @@
     <br/>
     <br/>
 
+<div class="section">
+
     <h1 id="fenetres">BAIES VITRÉES</h1>
     <br/>
     <br/>
@@ -119,6 +121,8 @@ La <strong>baie coulissante en aluminium en région parisienne</strong>, se déc
 
 </br>
 </br>
+
+</div>
 
 <footer>
         <p id="footer">

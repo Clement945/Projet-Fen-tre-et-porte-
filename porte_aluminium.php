@@ -40,6 +40,8 @@
     <br/>
     <br/>
 
+<div class="section">
+
     <h1 id="fenetres">Porte en Aluminium</h1>
     <br/>
 
@@ -228,6 +230,8 @@ Une porte pour chaque style. Choisissez le vôtre et faites la différence.</p>
 
 </br>
 </br>
+
+</div>
 
 
 <footer>

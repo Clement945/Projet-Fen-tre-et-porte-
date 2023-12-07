@@ -40,6 +40,8 @@
     <br/>
     <br/>
 
+<div class="section">
+
     <h1 id="fenetres">PORTES</h1>
     <br/>
 
@@ -252,6 +254,8 @@ Vous l’aurez compris, pour profiter de ce qui se fait de mieux en termes de <s
 
 </br>
 </br>
+
+</div>
 
 <footer>
         <p id="footer">

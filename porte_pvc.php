@@ -40,6 +40,8 @@
     <br/>
     <br/>
 
+<div class="section">
+
     <h1 id="fenetres">Porte en PVC</h1>
     <br/>
 
@@ -225,6 +227,8 @@ Chez nous le <strong>« sur-mesure »</strong> n’est pas un slogan.<br/><br/> 
 
 </br>
 </br>
+
+</div>
 
 
 <footer>

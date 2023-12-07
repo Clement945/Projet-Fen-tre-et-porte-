@@ -43,6 +43,8 @@
     <br/>
     <br/>
 
+<div class="section">
+
     <h1 id="fenetres">CATALOGUES</h1>
     <br/>
     <br/>
@@ -208,6 +210,9 @@ Le catalogue Securystar présente de manière détaillée l’offre de notre par
 
 </br>
 </br>
+
+
+</div>
 
 <footer>
         <p id="footer">

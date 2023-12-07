@@ -40,6 +40,8 @@
     <br/>
     <br/>
 
+<div class="section">
+
     <h1 id="fenetres">Pose de fenêtre en Aluminium</h1>
     <br/>
 
@@ -194,6 +196,8 @@ tout en finesse, vous allez gagner de la lumière naturelle en plus, bénéficie
 
 </br>
 </br>
+
+</div>
 
 <footer>
         <p id="footer">

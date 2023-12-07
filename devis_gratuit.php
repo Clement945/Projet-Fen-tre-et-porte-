@@ -43,6 +43,8 @@
     <br/>
     <br/>
 
+<div class="section">
+
     <h1 id="fenetres">DEVIS GRATUIT</h1>
     <br/>
     <br/>
@@ -123,6 +125,8 @@
 
 </br>
 </br>
+
+</div>
 
 <footer>
         <p id="footer">

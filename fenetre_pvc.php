@@ -40,9 +40,11 @@
     <br/>
     <br/>
 
+<div class="section">
+
     <h1 id="fenetres">Pose de fenêtre en PVC</h1>
 
-
+<br/>
 
     
 
@@ -196,6 +198,8 @@ demandent très peu d’entretient</p>
 
 </br>
 </br>
+
+</div>
 
 <footer>
         <p id="footer">

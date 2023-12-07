@@ -40,6 +40,8 @@
     <br/>
     <br/>
 
+<div class="section">    
+
     <h1 id="fenetres">Porte en bois</h1>
     <br/>
 
@@ -225,6 +227,7 @@ laissez-vous porter par les multiples modèles traditionnels ou contemporains pr
 </br>
 </br>
 
+</div>
 
 <footer>
         <p id="footer">
