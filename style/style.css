@@ -328,22 +328,42 @@ footer p{
         text-align: center;
     }
     
-    #image-coulissant .image-container img {
-        max-width: 100%;
-        height: auto;
-        margin: 10px 0;
+    #image-coulissant {
+        width: 100%; /* Remplacer la largeur fixe par 100% pour le rendre responsive */
     }
-    
-    .image-container {
-        display: flex;
-        justify-content: center;
-        flex-wrap: wrap; /* Permet aux images de passer à la ligne si l'espace est insuffisant */
+
+    .animated .image-container {
+        animation: none; /* Désactiver l'animation sur de petits écrans si nécessaire */
     }
+
+    /* Appliquer la transformation au survol de l'image */
+    .image-container img:hover {
+    transform: scale(1.0); /* ou toute autre transformation souhaitée */
+}
+
+#taille-liste {
+    text-align: center; /* Centre le texte horizontalement sur les petits écrans */
+    margin-right: 40px;
+}
+
+#taille-liste li {
+    margin-bottom: 5px;
+    text-align: center; /* Centre le texte horizontalement sur les petits écrans */
+    font-size: 14px; /* Ajustez la taille de la police pour les petits écrans si nécessaire */
+}
+
+h2 {
+    font-size: 18px;
+    margin: auto;
+}
     
     .text, .listepuce, .image-container2, .bouton-fenetre {
         margin: 10px 0;
     }
     
+.text{
+    font-size: 16px;
+}
 
     #image1 {
         width: 80px;
@@ -376,6 +396,11 @@ footer p{
     .text, .listepuce, .image-container2, .bouton-fenetre {
         margin: 10px 0; /* Ajouter un espacement autour de ces éléments */
     }
+
+    #image6:hover {
+        transform: scale(1.0); /* ou toute autre transformation souhaitée */
+    }
+
     footer {
         padding: 15px 0;
     }
