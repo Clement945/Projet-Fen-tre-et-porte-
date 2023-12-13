@@ -231,9 +231,9 @@ footer p{
 @media screen and (max-width: 700px) {
     
     /* .form-container {
-        max-width: 90%;
-        padding: 15px;
-    } */
+        max-width: 500px;
+        margin: 0 auto;
+    }  */
 
     body {
         font-size: 14px; /* Ajustez la taille de la police selon vos préférences */
@@ -354,6 +354,132 @@ h2 {
 
     #footer {
         font-size: 14px;
+        margin: 10px 0;
+        line-height: 1.5; /*Ajustez la hauteur de ligne pour ajouter de l'espacement entre les lignes de texte */
+    }
+}
+
+
+/* Styles par défaut pour les écrans plus larges que 600px (format tablette) */
+@media screen and (min-width: 600px) {
+
+    
+    body {
+        font-size: 17px; /* Ajustez la taille de la police selon vos préférences */
+        margin: 0;
+        padding: 0;
+        max-width: 100%; /* La largeur maximale est de 100% de la largeur de l'écran */
+        overflow-x: hidden; /* Empêche le défilement horizontal si le contenu dépasse */
+    }
+
+    nav ul li {
+        display: block;
+        width: 100%;
+        text-align: center;
+        box-sizing: border-box;
+        border-bottom: 1px solid #000000;
+        padding: 10px; /* Ajouter un espacement entre les éléments de la liste */
+        font-size: 20px;
+    }
+
+    nav li:hover .sub-menu {
+        display: none;
+    }
+    
+    #image-coulissant2 {
+        text-align: center;
+    }
+    
+    #image-coulissant {
+        width: 100%; /* Remplacer la largeur fixe par 100% pour le rendre responsive */
+    }
+
+    .animated .image-container {
+        animation: none; /* Désactiver l'animation sur de petits écrans si nécessaire */
+    }
+
+    .image6{
+        width: 45%;
+    }
+
+
+    /* Appliquer la transformation au survol de l'image */
+    .image-container img:hover {
+    transform: scale(1.0); /* ou toute autre transformation souhaitée */
+}
+
+#taille-liste {
+    text-align: center; /* Centre le texte horizontalement sur les petits écrans */
+    margin-right: 40px;
+}
+
+#taille-liste li {
+    margin-bottom: 5px;
+    text-align: center; /* Centre le texte horizontalement sur les petits écrans */
+    font-size: 14px; /* Ajustez la taille de la police pour les petits écrans si nécessaire */
+}
+
+h2 {
+    font-size: 18px;
+    margin: auto;
+}
+    
+    .text, .listepuce, .image-container2, .bouton-fenetre {
+        margin: 10px 0;
+    }
+    
+.text{
+    font-size: 16px;
+}
+
+    #image1 {
+        width: 80px;
+        height: auto;
+    }
+
+    #image-coulissant2 {
+        display: block;
+    }
+
+    #image-coulissant {
+        width: 100%;
+        overflow: auto;
+    }
+
+    .image-container {
+        flex-direction: column;
+    }
+
+    #image-coulissant2 {
+        text-align: center;
+    }
+    
+    #image-coulissant img {
+        max-width: 100%; /* La largeur maximale est égale à la largeur du conteneur parent */
+        height: auto; /* Garantit que l'aspect ratio de l'image est préservé */
+        margin: 10px 0; /* Ajouter un espacement autour de chaque image */
+    }
+
+    .text, .listepuce, .image-container2, .bouton-fenetre {
+        margin: 10px 0; /* Ajouter un espacement autour de ces éléments */
+    }
+
+    .image6:hover {
+        transform: scale(1.0); /* ou toute autre transformation souhaitée */
+    }
+
+    footer {
+        padding: 15px 0;
+    }
+
+    footer p {
+        margin: 10px 0;
+    }
+    /* Ajoutez d'autres styles spécifiques pour les écrans plus petits ici */
+
+
+    #footer {
+        font-size: 20px;
         margin: 10px 0;
         line-height: 1.5; /*Ajustez la hauteur de ligne pour ajouter de l'espacement entre les lignes de texte */
     }
