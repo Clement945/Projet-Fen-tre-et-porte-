@@ -292,9 +292,9 @@ footer p{
 }
 
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 1000px) {
     body {
-        font-size: 14px; /* Ajustez la taille de la police selon vos préférences */
+        font-size: 20px; /* Ajustez la taille de la police selon vos préférences */
         margin: 0;
         padding: 0;
         max-width: 100%; /* La largeur maximale est de 100% de la largeur de l'écran */
@@ -308,11 +308,17 @@ footer p{
         box-sizing: border-box;
         border-bottom: 1px solid #000000;
         padding: 10px; /* Ajouter un espacement entre les éléments de la liste */
+        font-size: 20px;
     }
 
     nav li:hover .sub-menu {
         display: none;
     }
+
+    p, .text-center{
+        font-size: 22px;
+    }
+    
     
     #image-coulissant2 {
         text-align: center;
@@ -396,9 +402,7 @@ h2 {
         padding: 15px 0;
     }
 
-    #footer {
-        font-size: 14px;
-    }
+
 
     footer p {
         margin: 10px 0;
@@ -407,10 +411,8 @@ h2 {
 
 
     #footer {
-        font-size: 14px;
+        font-size: 20px;
         margin: 10px 0;
         line-height: 1.5; /*Ajustez la hauteur de ligne pour ajouter de l'espacement entre les lignes de texte */
     }
 }
-
-

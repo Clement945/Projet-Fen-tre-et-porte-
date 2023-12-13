@@ -360,12 +360,9 @@ h2 {
 }
 
 
-/* Styles par défaut pour les écrans plus larges que 600px (format tablette) */
-@media screen and (min-width: 600px) {
-
-    
+@media screen and (max-width: 1024px) {
     body {
-        font-size: 17px; /* Ajustez la taille de la police selon vos préférences */
+        font-size: 20px; /* Ajustez la taille de la police selon vos préférences */
         margin: 0;
         padding: 0;
         max-width: 100%; /* La largeur maximale est de 100% de la largeur de l'écran */
@@ -385,6 +382,11 @@ h2 {
     nav li:hover .sub-menu {
         display: none;
     }
+
+    p, .text-center{
+        font-size: 22px;
+    }
+    
     
     #image-coulissant2 {
         text-align: center;
@@ -396,10 +398,6 @@ h2 {
 
     .animated .image-container {
         animation: none; /* Désactiver l'animation sur de petits écrans si nécessaire */
-    }
-
-    .image6{
-        width: 45%;
     }
 
 
@@ -431,6 +429,11 @@ h2 {
 .text{
     font-size: 16px;
 }
+
+.image6{
+    width: 50%;
+}
+
 
     #image1 {
         width: 80px;
@@ -471,6 +474,8 @@ h2 {
     footer {
         padding: 15px 0;
     }
+
+
 
     footer p {
         margin: 10px 0;
