@@ -72,7 +72,7 @@
 
     <ul id="taille-liste">
         <li>- 8 Bis RUE HOCHE 94130 NOGENT-SUR-MARNE Ouvert du Lundi au vendredi de 9h30 à 12h30</li><br/>
-        <li>- 1 AVENUE DE STALINGRAD 94140 FONTENAY-SOUS-BOIS Ouvert du Lundi au Jeudi de 14h à 17h</li>
+        <li>- 1 AVENUE DE STALINGRAD 94120 FONTENAY-SOUS-BOIS Ouvert du Lundi au Jeudi de 14h à 17h</li>
     </ul>
     </div>
 

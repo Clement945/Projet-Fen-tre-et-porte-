@@ -80,7 +80,7 @@
     <div class="contact-item">
         <h2>E-mail :</h2>
         <a href="mailto:hmf@fenetre-et-porte.fr">
-            <p class="taille_text">hmf@fenetre-et-porte.fr</p>
+            <p class="taille_text">info@fenetre-et-porte.fr</p>
         </a>
         <img src="./image/contact_mail.png" title="image contact" alt="image baies vitrée" class="image_contact image6"/>
     
@@ -123,7 +123,7 @@
 <h2>Première adresse:</h2>
 
 
-<p class="taille_text">8 bis Rue Hoche 94140 Fontenay-sous-bois<br/> (Ouvert du Lundi au vendredi de 9h30 à 12h30)</p>
+<p class="taille_text">8 bis Rue Hoche 94130 Nogent-sur-marne<br/> (Ouvert du Lundi au vendredi de 9h30 à 12h30)</p>
 
 
 <br/>
@@ -144,7 +144,7 @@
 <h2>Deuxième adresse:</h2>
 
 
-<p class="taille_text">1 Avenue de stalingrad 94140 Fontenay-sous-bois<br/> (Ouvert du Lundi au jeudi de 14h à 17h)</p>
+<p class="taille_text">1 Avenue de stalingrad 94120 Fontenay-sous-bois<br/> (Ouvert du Lundi au jeudi de 14h à 17h)</p>
 
 
 <br/>
